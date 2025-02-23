@@ -4,6 +4,13 @@
 
 U.S. County SocioInsights is an innovative tool that provides real estate agents and policymakers with valuable data-driven insights on housing affordability and socioeconomic issues across U.S. counties. This interactive dashboard, developed using Python, Gradio, and Plotly, assists in addressing housing market challenges, improving community well-being, and guiding policy decisions.
 
+
+
+https://github.com/user-attachments/assets/befe2459-5141-4a42-847f-0da972c8df7b
+
+
+
+
 ### Significance of U.S. County SocioInsights:
 - **The Housing Crisis**: With escalating housing costs and a scarcity of affordable options in the U.S., communities face significant hurdles. Real estate professionals and policymakers require data-driven solutions to identify opportunities and formulate effective strategies.
 - **Socioeconomic Understanding**: Besides housing concerns, comprehensive knowledge of crime rates, education, and economic circumstances is fundamental for holistic community growth.
